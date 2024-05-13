@@ -13,6 +13,13 @@ console.log( valueInNUmber);
 //if the score is true the value will be 1;
 //if the score is false the value will be 0;
 
+//in conversion logic for boolean.
+ // 1 => true ; 0 => false
+ //""=> false
+ //
+ //"string"=> true
+
+
 ////tables logic ///////
 
 let number = 5;
